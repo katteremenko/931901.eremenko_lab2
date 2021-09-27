@@ -1,0 +1,17 @@
+.green
+	{
+		background-color: green;
+		width: 500px;
+		color: white;
+		margin: auto;
+	}
+
+.blue
+	{
+		background-color: blue;
+		width: 500px;
+		border: 40px;
+		padding: 40px;
+		color: white;
+		margin: auto;
+	}

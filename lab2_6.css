@@ -1,0 +1,15 @@
+.white
+	{
+		width: 500px;
+		padding-top: 15px;
+		padding-bottom: 15px;
+		margin: auto;
+	}
+
+.border
+	{
+		width: 400px;
+		border: 10px solid blue;
+		padding: 40px;
+		margin: auto;
+	}

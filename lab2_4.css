@@ -1,0 +1,9 @@
+
+div
+	{
+		background-color: blue;
+		width: 100%;
+		max-width: 500px;
+		color: white;
+		margin: auto;
+	}
