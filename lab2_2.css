@@ -34,7 +34,7 @@ a
  	{
 		background-color: #C8FC98;
 		float: left;
-		width: 400px;
+		width: 25%;
 		line-height: 25px;
 		padding: 0 5px;
  	}
@@ -43,7 +43,7 @@ a
  	{
  		background-color: #FDE95E;
  		float: right;
-		width: 13%;
+		width: 200px;
 		line-height: 25px;
 		padding: 0 5px;
  	}
@@ -51,6 +51,6 @@ a
  .content 
  	{
  		line-height: 25px;
- 		padding-left: 420px;
- 		padding-right: 240px;
+ 		padding-left: 26%;
+ 		padding-right: 210px;
  	}
